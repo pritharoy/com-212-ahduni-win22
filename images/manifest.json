@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1773,
+    "id" : "https://pritharoy.github.io/com-212-ahduni-win22/images/IMG_1609/canvas/",
+    "label" : {
+      "none" : [ "IMG_1609" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://pritharoy.github.io/com-212-ahduni-win22/images/IMG_1609/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://pritharoy.github.io/com-212-ahduni-win22/images/IMG_1609/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 56,
+              "height" : 56
+            }, {
+              "width" : 111,
+              "height" : 111
+            }, {
+              "width" : 222,
+              "height" : 222
+            }, {
+              "width" : 444,
+              "height" : 444
+            }, {
+              "width" : 887,
+              "height" : 887
+            }, {
+              "width" : 1773,
+              "height" : 1773
+            } ],
+            "profile" : "level0",
+            "width" : 1773,
+            "id" : "https://pritharoy.github.io/com-212-ahduni-win22/images/IMG_1609",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1773
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1773,
+          "id" : "https://pritharoy.github.io/com-212-ahduni-win22/images/IMG_1609/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 1773
+        },
+        "target" : "https://pritharoy.github.io/com-212-ahduni-win22/images/IMG_1609/canvas/"
+      } ]
+    } ],
+    "height" : 1773
+  }, {
     "width" : 6000,
     "id" : "https://pritharoy.github.io/com-212-ahduni-win22/images/DSC_0294/canvas/",
     "label" : {
