@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 56,
+    "height" : 56
+  }, {
+    "width" : 111,
+    "height" : 111
+  }, {
+    "width" : 222,
+    "height" : 222
+  }, {
+    "width" : 444,
+    "height" : 444
+  }, {
+    "width" : 887,
+    "height" : 887
+  }, {
+    "width" : 1773,
+    "height" : 1773
+  } ],
+  "profile" : "level0",
+  "width" : 1773,
+  "id" : "https://pritharoy.github.io/com-212-ahduni-win22/images/IMG_1609",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1773
+}
