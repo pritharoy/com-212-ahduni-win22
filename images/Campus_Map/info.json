@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 135,
+    "height" : 108
+  }, {
+    "width" : 270,
+    "height" : 216
+  }, {
+    "width" : 540,
+    "height" : 432
+  }, {
+    "width" : 1080,
+    "height" : 864
+  }, {
+    "width" : 2160,
+    "height" : 1728
+  }, {
+    "width" : 4320,
+    "height" : 3456
+  } ],
+  "profile" : "level0",
+  "width" : 4320,
+  "id" : "https://pritharoy.github.io/com-212-ahduni-win22/images/Campus_Map",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3456
+}
